@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" role="img" aria-labelledby="title">
+<title id="title">모델 계산 흐름</title>
+<rect width="960" height="360" fill="white"/>
+<g font-family="sans-serif" fill="#152333"><text x="32" y="42" font-size="26" >정보 공유에서 기여도와 가상점수까지</text>
+<text x="32" y="77" font-size="16" >참여집단 3개: CFS(C) · 터미널 / CY(Y) · 운송사(R)</text>
+<text x="32" y="111" font-size="16" >같은 작업조건 → NONE, C, Y, R, CY, CR, YR, CYR의 공유조합 8개</text>
+<rect x="32" y="150" width="208" height="104" fill="white" stroke="#2166ac" stroke-width="2"/>
+<text x="46" y="185" font-size="18" >① 조합별 실행</text>
+<text x="46" y="222" font-size="14" >같은 seed로 계획·평가</text>
+<text x="243" y="209" font-size="18" >→</text>
+<rect x="260" y="150" width="208" height="104" fill="white" stroke="#2166ac" stroke-width="2"/>
+<text x="274" y="185" font-size="18" >② KPI 개선량</text>
+<text x="274" y="222" font-size="14" >미공유 대비 차이</text>
+<text x="471" y="209" font-size="18" >→</text>
+<rect x="488" y="150" width="208" height="104" fill="white" stroke="#2166ac" stroke-width="2"/>
+<text x="502" y="185" font-size="18" >③ Shapley 기여도</text>
+<text x="502" y="222" font-size="14" >모든 참여 순서의 평균</text>
+<text x="699" y="209" font-size="18" >→</text>
+<rect x="716" y="150" width="208" height="104" fill="white" stroke="#2166ac" stroke-width="2"/>
+<text x="730" y="185" font-size="18" >④ 가상점수</text>
+<text x="730" y="222" font-size="14" >평균 기여도 → 1,000점</text>
+<text x="32" y="303" font-size="16" >배차 KPI: 이동시간 + 대기시간(분)    |    CY KPI: 재취급 이동 수(회)</text>
+<text x="32" y="337" font-size="14" >정식 실행: seed 100개 × 공유조합 8개 = 모델별 800개 결과</text>
+</g></svg>

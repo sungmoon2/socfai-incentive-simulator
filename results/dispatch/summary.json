@@ -1,0 +1,16 @@
+{
+  "data_grade": "synthetic",
+  "formal_run_set_valid": true,
+  "full_value_minutes": 72.37,
+  "integer_reward_total": 1000,
+  "mean_phi": {
+    "carrier": 42.76166666666667,
+    "cfs": 28.981666666666666,
+    "terminal": 0.6266666666666667
+  },
+  "reward_active": true,
+  "reward_inactive_reason": null,
+  "scenario_id": "socfai-dispatch-synthetic-v1",
+  "statistics_sample_size": 100,
+  "valid_seed_count": 100
+}

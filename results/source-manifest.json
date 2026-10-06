@@ -1,0 +1,175 @@
+{
+  "files": [
+    {
+      "bytes": 28,
+      "path": ".gitattributes",
+      "sha256": "bee9a2630619fb0bd2883f7f49dce566f6e900a6dea279ee277e18aac5348703"
+    },
+    {
+      "bytes": 29,
+      "path": ".gitignore",
+      "sha256": "a790af02f1dabad85782f78a6b26900a4ed4b4ddb54222b2006fdd7f7271eb9b"
+    },
+    {
+      "bytes": 1283,
+      "path": "configs/cy_v2_formal.json",
+      "sha256": "7346bd73001b477765534604f9f09c827e7afff1087fa87bfd10e035e8166184"
+    },
+    {
+      "bytes": 326,
+      "path": "configs/cy_v2_smoke.json",
+      "sha256": "a0746a95aba33fb222047c0459aec2bdcca7be942e071fba7c7309b19ac2cfcc"
+    },
+    {
+      "bytes": 2432,
+      "path": "configs/formal.json",
+      "sha256": "3a97cd5ee136cbc14431a759edae7e365e2011a060c05afa2bc6a424af321520"
+    },
+    {
+      "bytes": 1648,
+      "path": "configs/smoke.json",
+      "sha256": "9dcfdf5d41a4cf18784a4e3760b3dbf9273ca1c66ce85f86c90c073d4c392141"
+    },
+    {
+      "bytes": 157,
+      "path": "pyproject.toml",
+      "sha256": "b2cb037af4834f46726723a47e20eec1f2106c735ce5873f4985f03455191035"
+    },
+    {
+      "bytes": 91,
+      "path": "src/socfai_cy_v2/__init__.py",
+      "sha256": "56a6cd93ab9549e52f562e0b2e2d8ce5fb5c89de5c13ab9cc9248ac633ff2f01"
+    },
+    {
+      "bytes": 50,
+      "path": "src/socfai_cy_v2/__main__.py",
+      "sha256": "8fda124942c1535a5de3d48057be3524a626b1f648786b7b6c0ec5fcc2aa1fec"
+    },
+    {
+      "bytes": 2488,
+      "path": "src/socfai_cy_v2/contracts.py",
+      "sha256": "64002aa451fde278927a75b5207219aac78b678ededd8b97507044b9ce719695"
+    },
+    {
+      "bytes": 343,
+      "path": "src/socfai_cy_v2/evaluator.py",
+      "sha256": "34e2fed19621949a8f7b92f28592af5f552993fb4d1ba93ab9fae923c4354e66"
+    },
+    {
+      "bytes": 4811,
+      "path": "src/socfai_cy_v2/execution.py",
+      "sha256": "cd46798615f1cd81b442f8970d00db068fe52a1628b351d6eda12c5f4c6a9689"
+    },
+    {
+      "bytes": 21258,
+      "path": "src/socfai_cy_v2/formal.py",
+      "sha256": "7a382f07970c6a4b2c66eada6460ab7699250bc92a745fad0217ab5656a647f6"
+    },
+    {
+      "bytes": 3611,
+      "path": "src/socfai_cy_v2/formal_statistics.py",
+      "sha256": "b9af5d4b004eb721592c749734871f82729fa3ba6e7ce0f48ce8f57abf705927"
+    },
+    {
+      "bytes": 4932,
+      "path": "src/socfai_cy_v2/generator.py",
+      "sha256": "a85d94e0b1981a5216697c6924770a0fa3d50fbf7b400909cdb216caddeba74f"
+    },
+    {
+      "bytes": 1728,
+      "path": "src/socfai_cy_v2/observations.py",
+      "sha256": "49adbf0d9fa7722db4063bad7b043c23bbb1a7f64b142d1d3ec7a94f40f0c6c4"
+    },
+    {
+      "bytes": 2355,
+      "path": "src/socfai_cy_v2/optimizer.py",
+      "sha256": "5adb28ee4c056d30e5f8fb1c02c77ce6b210450d76f00dbc70b34990240d7027"
+    },
+    {
+      "bytes": 9518,
+      "path": "src/socfai_cy_v2/runner.py",
+      "sha256": "f482453778f05375c7fb52691dd003564443de8a67dcf4033e4fe3b6128411a5"
+    },
+    {
+      "bytes": 8428,
+      "path": "src/socfai_cy_v2/schema.py",
+      "sha256": "ef21a291bbb5f9e7665de5a9a6825208cb3c2aa04f016637dc70816a67dcc001"
+    },
+    {
+      "bytes": 4445,
+      "path": "src/socfai_cy_v2/value.py",
+      "sha256": "1252e02eb5c47e55876b4f99d4b7453783444c56e3a6fd0a382429236685e84b"
+    },
+    {
+      "bytes": 83,
+      "path": "src/socfai_incentive/__init__.py",
+      "sha256": "9ff88de31d8f49fc5e4cfa01afef2cec0585a4872ee9e38bf13b16618757d400"
+    },
+    {
+      "bytes": 51,
+      "path": "src/socfai_incentive/__main__.py",
+      "sha256": "74fff10eb2bd330c92909b27a5a9ae84f41b3f268a5c04f51f849276919f19c6"
+    },
+    {
+      "bytes": 12024,
+      "path": "src/socfai_incentive/data.py",
+      "sha256": "647bba38353844e89fd0354793f42b3f50d48fbd1049f0c84b16fc81a8443549"
+    },
+    {
+      "bytes": 310,
+      "path": "src/socfai_incentive/evaluator.py",
+      "sha256": "ef4138a56ba20e911fed96ce2299b855a6808cbd6979965d68bf01772931bd4f"
+    },
+    {
+      "bytes": 18290,
+      "path": "src/socfai_incentive/formal.py",
+      "sha256": "231dd43ca456b2a61e3443042ed1df797d62e484feeb899231383d0ef1255a0b"
+    },
+    {
+      "bytes": 3788,
+      "path": "src/socfai_incentive/optimizer.py",
+      "sha256": "afef1d0b27bfa314a57e74a843708f9ddf0da08b4ded7aa659cd5c53d07359c3"
+    },
+    {
+      "bytes": 8426,
+      "path": "src/socfai_incentive/runner.py",
+      "sha256": "c1a2c1bc78930ef434188b8fec4dd41b731fddb1178a63e9d0273c1d189f4729"
+    },
+    {
+      "bytes": 3556,
+      "path": "src/socfai_incentive/schedule.py",
+      "sha256": "39ecf7f3e04b6934520f2f44e29832fdfa2bd1e49caf463fd947106a01a4395c"
+    },
+    {
+      "bytes": 3422,
+      "path": "src/socfai_incentive/statistics.py",
+      "sha256": "2bfb38c582e015ee38ab145ef833ae7c0e6b5755c50bf2ee73cbcfd9a4303a8b"
+    },
+    {
+      "bytes": 4072,
+      "path": "src/socfai_incentive/value.py",
+      "sha256": "1a3fbe990be1f77ead8a490346424a06da4b1fc3860cb26925b99b6dc61cca79"
+    },
+    {
+      "bytes": 16683,
+      "path": "tests/test_cy_formal.py",
+      "sha256": "34ac02e13119953dd3b5bfd0c09e35ecde1114114a00dbb000ff32d55de5b3d3"
+    },
+    {
+      "bytes": 29018,
+      "path": "tests/test_cy_v2.py",
+      "sha256": "34b25a593268bd859bb9e89b24cd2ae382edef643fc37130c078dd66843d78a2"
+    },
+    {
+      "bytes": 15132,
+      "path": "tests/test_formal.py",
+      "sha256": "fc398180fe41f57529784eb5ed4ff8ddd884921ccf642739d49e244aa912bb98"
+    },
+    {
+      "bytes": 20963,
+      "path": "tests/test_simulator.py",
+      "sha256": "a97120dd0ddc29e4bec998ed370cefbbce31ed2a1eb8c21800945fc822b25b65"
+    }
+  ],
+  "source_commit": "430491327e39a54d83f49b23daccf5eea22b2173"
+}

@@ -1,0 +1,4 @@
+scenario_id,participant_id,reward_active,reward_inactive_reason,raw_reward_points,integer_reward_points,rounding_rank,reward_rule_version
+socfai-dispatch-synthetic-v1,carrier,True,,590.8755930173645,591,1,1.0.0
+socfai-dispatch-synthetic-v1,cfs,True,,400.4652019713509,400,3,1.0.0
+socfai-dispatch-synthetic-v1,terminal,True,,8.659205011284602,9,2,1.0.0

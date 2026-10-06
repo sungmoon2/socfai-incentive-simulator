@@ -1,0 +1,4 @@
+participant_id,participant_name,n,mean_shapley_moves,mean_shapley_exact,ci_lower,ci_upper,available
+C,CFS,100,-0.01,-1/100,-0.09333333333333334,0.07666666666666666,True
+Y,CY operator,100,0.805,161/200,0.6833333333333333,0.9366666666666666,True
+R,carrier,100,0.005,1/200,-0.043333333333333335,0.051666666666666666,True

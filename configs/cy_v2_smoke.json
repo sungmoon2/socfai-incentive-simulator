@@ -1,0 +1,11 @@
+{
+  "schema_version": "cy-v2.0",
+  "mode": "smoke",
+  "seeds": [0],
+  "freshness_as_of": "2026-09-28T00:00:00+00:00",
+  "generator_version": "cy-gen-v1.0",
+  "public_default_version": "cy-public-v1.0",
+  "algorithm_version": "cy-opt-v1.0",
+  "calculation_version": "cy-value-v1.0",
+  "reward_rule_version": "cy-reward-v1.0"
+}

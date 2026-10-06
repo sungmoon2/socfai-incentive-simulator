@@ -1,0 +1,4 @@
+scenario_id,aggregation_scope,participant_id,raw_shapley_minutes,mean_shapley_minutes,value_credit_minutes,contribution_share_pct,full_value_minutes,calculation_version
+socfai-dispatch-synthetic-v1,formal_100_paired_seeds,carrier,42.76166666666667,42.76166666666667,42.76166666666667,59.08755930173645,72.37,exact-shapley-3-v1
+socfai-dispatch-synthetic-v1,formal_100_paired_seeds,cfs,28.981666666666666,28.981666666666666,28.981666666666666,40.04652019713509,72.37,exact-shapley-3-v1
+socfai-dispatch-synthetic-v1,formal_100_paired_seeds,terminal,0.6266666666666667,0.6266666666666667,0.6266666666666667,0.8659205011284602,72.37,exact-shapley-3-v1

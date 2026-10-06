@@ -1,0 +1,4 @@
+participant_id,active,integer_reward_points,inactive_reason
+C,True,0,
+Y,True,994,
+R,True,6,
